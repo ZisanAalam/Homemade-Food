@@ -19,7 +19,3 @@ Main goal of this project is to empower homemakers to leverage their expertise a
 * HTML
 * Apache
 
-
-# Instructions to Run:
-1. git clone
-2. 
